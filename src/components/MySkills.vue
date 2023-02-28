@@ -3,13 +3,13 @@
     
   <section class="grid md:grid-cols-2 my-6 gap-2">
   <img class="w-full p-4 rounded-bl-full rounded-r-full"
-    src="../assets/robot-gears.png"/>
+    src="../assets/skills.jpg"/>
   <div class="p-3 my-6">
-    <h1 class=" text-3xl font-bold px-3 text-blue-500">My Skills</h1>
+    <h1 class=" text-3xl font-semibold px-3 text-blue-500">My Skills</h1>
     <div class="p-2 space-y-3 ">
     <p class="p-2">These are the skills I have but I look forward to adding more skills, because technology changes every day.</p>
     </div>
-    <div class="flex flex-wrap gap-4">
+    <div class="flex flex-wrap gap-4 md:gap-4">
     <div>
     <img class="w-20" src="../assets/html.svg"/>
       <p class="text-gray-500 pl-6">HTML</p>

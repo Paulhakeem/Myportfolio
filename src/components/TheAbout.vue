@@ -1,40 +1,33 @@
 <script setup></script>
 <template>
 
-  <section class="grid md:grid-cols-2 my-6 gap-2 bg-gray-200">
+  <section class="grid md:grid-cols-2 my-6 gap-2 bg-blue-400">
   <div class="p-3 my-6">
-    <h1 class=" text-3xl font-bold px-3 text-blue-500">About Me</h1>
+    <h1 class=" text-3xl font-semibold px-3 text-white">About Me</h1>
     <div class="p-2 space-y-3 ">
-    <p class="p-2">I am a front-end web developer based out of Kenya. I love combing logic and creating designs to make eye-catching, accessible, user-friendly websites and applications. I offer both design and development services for web applications or websites. I usually use HTML, Tailwindcss, JavaScript, and Vue.js, but picking up a new framework or language is not a problem. I am comfortable developing on the front end.</p>
-    <div class="items-center text-center max-w-sm border border-gray-500">
-      <h1 class="text-blue-500 text-xl font-semibold ">Responsive Websites</h1>
-      <div class="border-t-2 border-gray-500 border-dotted my-2">
-        <p class="my-4">I make the websites look good when I design on different devices, browsers, and cross platforms using both mobile approach and desktop media queries.</p>
-      </div>
-      <div>
-      </div>
-    </div>
+    <p class="p-2 text-white">I am a front-end web developer based out of Kenya. I love combing logic and creating designs to make eye-catching, accessible, user-friendly websites and applications. I offer both design and development services for web applications or websites. I usually use HTML, Tailwindcss, JavaScript, and Vue.js, but picking up a new framework or language is not a problem. I am comfortable developing on the front end.</p>
+    
       <div class="pt-10 m-auto">
-      <h1 class="font-semibold">You can connect with me through</h1>
+      <h1 class="font-semibold text-white">You can connect with me through</h1>
       <div class="flex my-4 gap-2">
         <div>
           <a href="https://web.facebook.com/paul.nyamawi.33" target="_blank">
-        <font-awesome-icon class="text-blue-600 text-4xl" icon="fa-brands fa-facebook" />
+        <font-awesome-icon class="text-white text-4xl" icon="fa-brands fa-facebook" />
           </a>
         </div>
          <div>
           <a href="https://twitter.com/Hakeemi20" target="_blank">
-        <font-awesome-icon class="text-blue-600 text-4xl" icon="fa-brands fa-twitter" />
+        <font-awesome-icon class="text-white text-4xl" icon="fa-brands fa-twitter" />
           </a>
         </div>
          <div>
            <a href="https://www.instagram.com/coderpaul18/" target="_blank">
-        <font-awesome-icon class="text-blue-600 text-4xl" icon="fa-brands fa-instagram" />
+        <font-awesome-icon class="text-white text-4xl" icon="fa-brands fa-instagram" />
            </a>
         </div>
          <div>
            <a href="https://www.linkedin.com/in/paul-nyamawi-9244b924b/" target="_blank">
-        <font-awesome-icon class="text-blue-600 text-4xl" icon="fa-brands fa-linkedin" />
+        <font-awesome-icon class="text-white text-4xl" icon="fa-brands fa-linkedin" />
         </a>
         </div>
       </div>
@@ -42,6 +35,10 @@
     </div>
     
   </div>
-    <img class="w-full p-4 border border-2 border-gray-500 border-dotted" src="../assets/robot.png"/>
+    <img class="w-full p-4 my-20 rounded-bl-full rounded-tl-full rounded-br-full" src="../assets/code.png"/>
   </section>
+  <div class="m-auto pt-12 text-center">
+    <p class="text-blue-500 text-xl font-semibold">- More About Me -</p>
+  </div>
+  
 </template>
