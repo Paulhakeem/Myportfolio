@@ -17,7 +17,7 @@
     <div class="bg-blue-400  text-lg text-center p-14 rounded-lg">
       <h1 class="text-white font-bold border-b border-1 border-white">Website Design</h1>
       <div class="text-white pt-4 text-base">
-      <p>I build websites and make then look responsive on different devices, browsers, and a cross all platforms by using both mobile approach and desktop media queries.</p>
+      <p>I build websites and make them look responsive on different devices, browsers, and a cross all platforms by using both mobile approach and desktop media queries.</p>
       </div>
     </div>
     <div class="bg-blue-400 text-lg text-center p-14 rounded-lg ">
