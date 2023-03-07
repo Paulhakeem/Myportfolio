@@ -45,8 +45,8 @@
             <div class="flex flex-col">
               <h2 class="text-lg underline"> Phone Numbers
 					</h2>
-              <p class="text-white">Tel: +245792857288</p>
-              <p class="text-white">Fax: +254759732432</p>
+              <p class="text-white">Tel1: +245792857288</p>
+              <p class="text-white">Tel2: +254759732432</p>
             </div>
           </div>
           
