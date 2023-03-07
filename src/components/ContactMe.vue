@@ -43,7 +43,8 @@
               <i class="fas fa-phone-alt pt-2 pr-2" />
             </div>
             <div class="flex flex-col">
-              <h1 class="font-semibold uppercase text-xl my-4">call me</h1>
+              <h2 class="text-lg underline"> Phone Numbers
+					</h2>
               <p class="text-white">Tel: +245792857288</p>
               <p class="text-white">Fax: +254759732432</p>
             </div>
