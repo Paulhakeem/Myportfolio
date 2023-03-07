@@ -9,7 +9,7 @@
     <p class="p-2">Web designer and developer from Kenya. I create custom website to help businesses do better online. I enjoy building everything from small business websites to rich interactive websites . If you are a business seeking a web presence or an employer looking to hire you can get intouch with me.</p>
     </div>
     <div class="my-4 mx-4">
-    <button class="p-4 text-blue-500 text-xl border border-2 border-blue-500">Reach Me</button>
+    <button class="p-4 text-blue-500 text-xl border border-2 border-blue-500 hover:bg-blue-500 hover:text-white hover:drop-shadow-2xl">Reach Me</button>
     </div>
   </div>
     

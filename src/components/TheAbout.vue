@@ -12,22 +12,22 @@
       <div class="flex my-4 gap-2">
         <div>
           <a href="https://web.facebook.com/paul.nyamawi.33" target="_blank">
-        <font-awesome-icon class="text-white text-4xl" icon="fa-brands fa-facebook" />
+        <font-awesome-icon class="text-white text-4xl hover:text-blue-600" icon="fa-brands fa-facebook" />
           </a>
         </div>
          <div>
           <a href="https://twitter.com/Hakeemi20" target="_blank">
-        <font-awesome-icon class="text-white text-4xl" icon="fa-brands fa-twitter" />
+        <font-awesome-icon class="text-white text-4xl hover:text-blue-600" icon="fa-brands fa-twitter" />
           </a>
         </div>
          <div>
            <a href="https://www.instagram.com/coderpaul18/" target="_blank">
-        <font-awesome-icon class="text-white text-4xl" icon="fa-brands fa-instagram" />
+        <font-awesome-icon class="text-white text-4xl hover:text-blue-600" icon="fa-brands fa-instagram" />
            </a>
         </div>
          <div>
            <a href="https://www.linkedin.com/in/paul-nyamawi-9244b924b/" target="_blank">
-        <font-awesome-icon class="text-white text-4xl" icon="fa-brands fa-linkedin" />
+        <font-awesome-icon class="text-white text-4xl hover:text-blue-600" icon="fa-brands fa-linkedin" />
         </a>
         </div>
       </div>
