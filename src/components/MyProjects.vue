@@ -22,7 +22,7 @@
     <div class="text-lg text-center p-14 rounded-lg space-y-4 grid grid-col">
       <div>
         <div class="text-xl font-semibold text-blue-400 pb-2">
-        <h1>Casino Game</h1>
+        <h1>Stopwatch</h1>
           </div>
         <img src="../assets/casino.png" class="w-56"/>
         <p class="text-gray-500">Made with HTML, CSS and JavaScript</p>
@@ -33,7 +33,7 @@
     <div class="text-lg text-center p-14 rounded-lg space-y-4 grid grid-col">
       <div>
         <div class="text-xl font-semibold text-blue-400 pb-2">
-        <h1>StopWatch</h1>
+        <h1>Casino Game</h1>
           </div>
         <img src="../assets/stopwatch.png" class="w-56"/>
         <p class="text-gray-500">Made with HTML, CSS and JavaScript</p>
@@ -50,8 +50,10 @@
         <p class="text-gray-500">Made with Vue, Tailwindcss, Javascript and Firebase</p>
       </div>
        <button class="bg-blue-400 text-white rounded-full p-2 w-48 text-lg animate-pulse">Click Me</button>
-    </div>
- 
+   </div>
+  
+  
+  
 </div>
   </section>
    

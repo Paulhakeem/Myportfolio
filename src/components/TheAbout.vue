@@ -6,6 +6,8 @@
     <h1 class=" text-3xl font-semibold px-3 text-white">About Me</h1>
     <div class="p-2 space-y-3 ">
     <p class="p-2 text-white">I am a front-end web developer based out of Kenya. I love combing logic and creating designs to make eye-catching, accessible, user-friendly websites and applications. I offer both design and development services for web applications or websites. I usually use HTML, Tailwindcss, JavaScript, and Vue.js, but picking up a new framework or language is not a problem. I am comfortable developing on the front end.</p>
+
+      <p class="p-2 text-white">I am also a graphic designer with experience in Adobe illustrator, Adobe Photoshop and other software design tools. I design logos, business cards, posters, Brochures, flyers and many more designs.</p>
     
       <div class="pt-10 m-auto">
       <h1 class="font-semibold text-white">You can connect with me through</h1>
@@ -28,6 +30,11 @@
          <div>
            <a href="https://www.linkedin.com/in/paul-nyamawi-9244b924b/" target="_blank">
         <font-awesome-icon class="text-white text-4xl hover:text-blue-600" icon="fa-brands fa-linkedin" />
+        </a>
+        </div>
+        <div>
+           <a href="https://github.com/Paulhakeem" target="_blank">
+        <font-awesome-icon class="text-white text-4xl hover:text-blue-600" icon="fa-brands fa-github" />
         </a>
         </div>
       </div>

@@ -1,7 +1,11 @@
-<script setup></script>
-<template>
+<script setup>
+  import { ref } from 'vue'
+  import { RouterLink, useRouter } from 'vue-router'
 
-  <div class="flex justify-center items-center w-screen h-screen bg-white">
+</script>
+<template>
+  <form @submit.prevent="handleSubmit" method="post">
+  <div class="flex justify-center items-center w-screen h-screen bg-white md:my-4">
 	
 	<div class="container mx-auto my-4 px-4 lg:px-20">
 
@@ -28,14 +32,14 @@
           </button>
 				</div>
 			</div>
-
+  
 			<div
 				class="w-full lg:-mt-96 lg:w-2/6 px-8 py-12 ml-auto bg-blue-400 rounded-2xl">
 				<div class="flex flex-col text-white">
-					<h1 class="font-semibold uppercase text-xl my-4">my contacts</h1>
-					<h2 class="text-lg underline"> Email
+					<h1 class="font-semibold uppercase text-xl my-4 pl-2">my contacts</h1>
+					<h2 class="text-lg underline pl-2"> Email
 					</h2>
-           <p class="text-white">paulnyamawi18@gmail.com</p>
+           <p class="text-white pl-2 hover:underline cursor-pointer">paulnyamawi18@gmail.com</p>
 		
           
           <div class="flex my-4 w-2/3 lg:w-1/2">
@@ -55,5 +59,5 @@
     </div>
    
 </div>
-
+</form>
 </template>
