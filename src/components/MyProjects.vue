@@ -7,50 +7,58 @@
    <h1 class="text-center font-semibold text-2xl text-blue-400 ">Projects</h1>
  </div>
 
-<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-2 md:gap-4 lg:gap-6 p-5 bg-gray-200">
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-2 md:gap-4 lg:gap-6 p-5 bg-gray-200 snap-mandatory snap-x ...">
   
     <div class="text-lg text-center p-14 rounded-lg space-y-4 grid grid-col">
-      <div>
+      <div class="snap-center ...">
         <div class="text-xl font-semibold text-blue-400 pb-2">
         <h1>Calculator</h1>
           </div>
         <img src="../assets/calculator.png" class="w-56"/>
         <p class="text-gray-500">Made with HTML, CSS and JavaScript</p>
       </div>
+      <a href="https://paulhakeem.github.io/calculator/" target="_blank">
       <button class="bg-blue-400 text-white rounded-full p-2 w-48 text-lg animate-pulse">Click Me</button>
+      </a>
+      
     </div>
     <div class="text-lg text-center p-14 rounded-lg space-y-4 grid grid-col">
-      <div>
+      <div class="snap-center ...">
         <div class="text-xl font-semibold text-blue-400 pb-2">
         <h1>Stopwatch</h1>
           </div>
         <img src="../assets/casino.png" class="w-56"/>
         <p class="text-gray-500">Made with HTML, CSS and JavaScript</p>
       </div>
+      <a href="https://paulhakeem.github.io/stopWatch/" target="_blank">
        <button class="bg-blue-400 text-white rounded-full p-2 w-48 text-lg animate-pulse">Click Me</button>
-     
+      </a>
     </div>
     <div class="text-lg text-center p-14 rounded-lg space-y-4 grid grid-col">
-      <div>
+      <div class="snap-center ...">
         <div class="text-xl font-semibold text-blue-400 pb-2">
         <h1>Casino Game</h1>
           </div>
         <img src="../assets/stopwatch.png" class="w-56"/>
         <p class="text-gray-500">Made with HTML, CSS and JavaScript</p>
       </div>
+      <a href="https://paulhakeem.github.io/casino-game/" target="_blank">
        <button class="bg-blue-400 text-white rounded-full p-2 w-48 text-lg animate-pulse">Click Me</button>
-     
+      </a>
     </div>
    <div class=" text-lg text-center p-14 rounded-lg space-y-4 grid grid-col">
-     <div>
+     <div class="snap-center ...">
         <div class="text-xl font-semibold text-blue-400 pb-2">
         <h1>Vote App</h1>
           </div>
         <img src="../assets/vote.png" class="w-56"/>
         <p class="text-gray-500">Made with Vue, Tailwindcss, Javascript and Firebase</p>
       </div>
+     <a href="https://vote-poll.paulhakeem.repl.co" target="_blank">
        <button class="bg-blue-400 text-white rounded-full p-2 w-48 text-lg animate-pulse">Click Me</button>
+     </a> 
    </div>
+  
   
   
   
