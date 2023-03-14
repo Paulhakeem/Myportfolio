@@ -7,10 +7,10 @@
    <h1 class="text-center font-semibold text-2xl text-blue-400 ">Projects</h1>
  </div>
 
-<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-2 md:gap-4 lg:gap-6 p-5 bg-gray-200 snap-mandatory snap-x ...">
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-2 md:gap-4 lg:gap-6 p-5 bg-gray-200 snap-mandatory snap-x">
   
     <div class="text-lg text-center p-14 rounded-lg space-y-4 grid grid-col">
-      <div class="snap-center ...">
+      <div class="snap-center">
         <div class="text-xl font-semibold text-blue-400 pb-2">
         <h1>Calculator</h1>
           </div>
@@ -23,7 +23,7 @@
       
     </div>
     <div class="text-lg text-center p-14 rounded-lg space-y-4 grid grid-col">
-      <div class="snap-center ...">
+      <div class="snap-center">
         <div class="text-xl font-semibold text-blue-400 pb-2">
         <h1>Stopwatch</h1>
           </div>
@@ -35,7 +35,7 @@
       </a>
     </div>
     <div class="text-lg text-center p-14 rounded-lg space-y-4 grid grid-col">
-      <div class="snap-center ...">
+      <div class="snap-center">
         <div class="text-xl font-semibold text-blue-400 pb-2">
         <h1>Casino Game</h1>
           </div>
@@ -47,7 +47,7 @@
       </a>
     </div>
    <div class=" text-lg text-center p-14 rounded-lg space-y-4 grid grid-col">
-     <div class="snap-center ...">
+     <div class="snap-center">
         <div class="text-xl font-semibold text-blue-400 pb-2">
         <h1>Vote App</h1>
           </div>

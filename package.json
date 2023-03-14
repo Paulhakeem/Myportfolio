@@ -10,6 +10,7 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
+        "@emailjs/browser": "^3.10.0",
         "@fortawesome/fontawesome-svg-core": "^6.3.0",
         "@fortawesome/free-brands-svg-icons": "^6.3.0",
         "@fortawesome/free-regular-svg-icons": "^6.3.0",
@@ -17,6 +18,7 @@
         "@fortawesome/vue-fontawesome": "^3.0.3",
         "@types/node": "^18.0.6",
         "@vitejs/plugin-vue": "^4.0.0",
+        "emailjs": "^4.0.1",
         "node-fetch": "^3.2.6",
         "vite": "^4.0.4",
         "vue": "^3.2.45",
